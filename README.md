@@ -40,14 +40,13 @@ https://<lms-url>/xblock/copiedlocationhere
 pasted their lms full url which you do earlier access in above example.
 * Second tab is settings click on that and set your tab name there.
 
-# take reference below which url you have to pasted in content page html.
- complete url will be below it just an example
+# Take reference below which url you have to pasted in content page html.
+ Complete url find below it just a reference
 ```
-https://<lms-url>/xblock/block-v1:trimate+c01+2020+type@xblock_website_viewer+block@e495f38935294d8daafcf12c1400c37e
-
+<iframe src="https://<lms-url>/xblock/block-v1:trimate+c01+2020+type@xblock_website_viewer+block@e495f38935294d8daafcf12c1400c37e"></iframe>
 ```
 
-* Save and you will get a tab with instruter left side name which you set earlier using settings. 
+* Save and you will get a tab instruter left side name which you set earlier using settings. 
 
 -------
 
