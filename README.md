@@ -1,5 +1,5 @@
 # website-viewer-xblock
-=========================
+
 website-viewer-xblock to display https://www.proctortrack.com/ inside iframe.
 
 Installation
@@ -7,8 +7,8 @@ Installation
 
 Install package
 '''
-pip install git+https://github.com/shivom123/website-viewer-xblock.git
-restart your studio server then it will reflect there.
+  pip install git+https://github.com/shivom123/website-viewer-xblock.git
+  restart your studio server then it will reflect there.
 
 '''
 
