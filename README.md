@@ -19,6 +19,9 @@ Install package
 * Add a `WebViewer` component to your Unit. 
 * If you want to alter some fields value like iframe width, height, display name apart from this you can change url as well if you want to display other web site in that iframe you can edit.
 * Publish your content as usual.
+* Then, you will find ``` staff Debug info ``` click on that get location from there.
+* https://<lms-ulr>/xblock/copiedlocation/
+ *create a new page click on content drop down which is left on settings click on pages cr
 
 Other easy to way to get a tab on course detail page for proctortrack.
 -------
