@@ -6,12 +6,13 @@ Installation
 ------------
 
 Install package
+* Before installation activate your env then run below command:
 ```
   
   pip install git+https://github.com/shivom123/website-viewer-xblock.git
-  restart your studio server then it will reflect there.
-
+  
 ```
+* restart your studio server then it will reflect there.
 
 # Usage
 * Add `xblock_website_viewer` to the list of advanced modules in the advanced settings of a course.
