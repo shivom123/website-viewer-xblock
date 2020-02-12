@@ -19,41 +19,36 @@ Install package
 * Add a `WebViewer` component to your Unit. 
 * If you want to alter iframe some fields value like iframe width, height display name and website url (which website you want to show under that iframe)
 * Publish your content as usual and click on live preview.
-* There, you will find ``` STAFF DEBUG INFO button ``` on right down click on that staff button copy that location from there.
-# example below
+* There, you will find ``` STAFF DEBUG INFO button ``` on right down click on that staff button you will find there location copy that location from.
+# see below look like this location
 ```
 location = block-v1:trimate+c01+2020+type@xblock_website_viewer+block@e495f38935294d8daafcf12c1400c37e
 
 ```
-* open your lms url in browser
+* 
 
-# example below
+# Open your lms url in browser with location take reference below
 ```
 https://<lms-url>/xblock/copiedlocationhere
 
 ```
-* You will find your iframe there next step will be create a page
-* Click on content dropdown and click pages for create a page.
-* after created a page goto edit option and select their html option
-pasted their lmsfull url which present in above example.
+* You will find your iframe window there next step will be create a page
+# Steps for create new content page:
 
-#example
+* Click on content dropdown which is inside cms course, click pages for create a page.
+* After created a page goto edit option and select their html option
+pasted their lms full url which you do earlier access in above example.
+* Second tab is settings click on that and set your tab name there.
+
+# take reference below which url you have to pasted in content page html.
  complete url will be below it just an example
 ```
 https://<lms-url>/xblock/block-v1:trimate+c01+2020+type@xblock_website_viewer+block@e495f38935294d8daafcf12c1400c37e
 
 ```
 
-* https://<lms-ulr>/xblock/copiedlocation/
- *create a new page click on content drop down which is left on settings click on pages cr
+* Save and you will get a tab with instruter left side name which you set earlier using settings. 
 
-Other easy to way to get a tab on course detail page for proctortrack.
 -------
 
-* click on content drop which left in settings click on pages create a new page and select html tag there add below code there:
-```
-<iframe src="https://www.proctortrack.com/">
-  <p>Your browser does not support iframes.</p>
-</iframe>
 
-```
