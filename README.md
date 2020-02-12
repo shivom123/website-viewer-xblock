@@ -44,7 +44,6 @@ https://<lms-url>/xblock/block-v1:trimate+c01+2020+type@xblock_website_viewer+bl
 
 ```
 
-
 * https://<lms-ulr>/xblock/copiedlocation/
  *create a new page click on content drop down which is left on settings click on pages cr
 
